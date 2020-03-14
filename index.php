@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="header">
-        <h2>Home Page</h2>
+        <h1>Home Page</h1>
     </div>
     
     <div class="content">
